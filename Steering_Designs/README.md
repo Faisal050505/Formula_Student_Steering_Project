@@ -32,4 +32,4 @@ This repository showcases my contribution as Junior Engineer (Steering) for LSBU
 **Result**: Delivered a clear, manufacturable steering design and strengthened team documentation practices. My work contributed to improved design clarity and team efficiency.
 
 ## 📌 Notes
-This project reflects my hands-on experience in mechanical design and team leadership. It’s part of my engineering portfolio for UK placement applications.
+This project reflects my hands-on experience in mechanical design and cross-functional collaboration. It’s part of my engineering portfolio for UK placement applications.
